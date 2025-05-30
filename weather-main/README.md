@@ -57,7 +57,6 @@ To use the Weather App, simply enter the name of the city in the search bar and 
 ## Contact
 For any inquiries, reach out at [siddharthagarwal2312@gmail.com].<br>
 GitHub: [@Siddharth-Tech23](https://github.com/Siddharth-Tech23).<br>
-Linkedin: [@kaushalsahu07](www.linkedin.com/in/kaushalsahu07).<br>
-Instagram: [@cd.kaushal](https://www.instagram.com/cd.kaushal?igsh=cTVram1ia3Vvamxz).<br>
+Linkedin: [@siddharth-agarwal-tech](https://www.linkedin.com/in/siddharth-agarwal-tech/).<br>
+Instagram: [@sid.agarwal23](https://www.instagram.com/sid.agarwal23/).<br>
 Portfolio: [Website Link ](https://kaushalsahu07.github.io/portfolio/).<br>
-X (Tweeter): [@kaushalsahu_07](https://x.com/kaushalsahu_07?t=7nk-jApWrJkgW6YwklJZWQ&s=09).<br>
